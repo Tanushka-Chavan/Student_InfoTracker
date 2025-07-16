@@ -9,14 +9,17 @@ Student Info Tracker is a fun and hands-on Java project that lets you add, searc
 ✅ Demonstrates real-world database operations with Hibernate Session methods
 
 
-🛠️ Tech Stack
-Component	Technology Used
-Language	Java 17
-ORM	Hibernate 5.4.33.Final
-Database	MySQL 8.x
-Date API	Java LocalDate (Java Time API)
-IDE	Eclipse
-Config	hibernate.cfg.xml (XML-based)
+## 🛠️ Tech Stack
+
+| Component   | Technology Used             |
+|------------|------------------------------|
+| Language    | Java 17                      |
+| ORM         | Hibernate 5.4.33.Final       |
+| Database    | MySQL 8.x                    |
+| Date API    | Java LocalDate (Java Time API) |
+| IDE         | Eclipse                      |
+| Config      | `hibernate.cfg.xml` (XML-based)
+
 
 🏗️ Project Architecture (Non-Maven – JAR-based)
 Student_Info_Tracker/
