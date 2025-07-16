@@ -1,4 +1,5 @@
-Student Info Tracker is a fun and hands-on Java project that lets you add, search, and delete student records using Hibernate and MySQL — all through a simple console interface.
+🎓 Student Info Tracker
+Student Info Tracker is a fun and hands-on Java project that lets you add, search, and delete student records using Hibernate and MySQL — all through a clean and interactive console interface.
 
 
 🌟 Project Highlights
@@ -14,8 +15,8 @@ Language	Java 17
 ORM	Hibernate 5.4.33.Final
 Database	MySQL 8.x
 Date API	Java LocalDate (Java Time API)
-IDE	Eclipse IDE
-Configuration	hibernate.cfg.xml (XML-based config)
+IDE	Eclipse
+Config	hibernate.cfg.xml (XML-based)
 
 🏗️ Project Architecture (Non-Maven – JAR-based)
 Student_Info_Tracker/
