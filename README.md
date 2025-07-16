@@ -24,20 +24,20 @@ Student Info Tracker is a fun and hands-on Java project that lets you add, searc
 🏗️ Project Architecture (Non-Maven – JAR-based)
 Student_Info_Tracker/
 │
-├── lib/                               # 📦 All external JAR files placed here
-│   ├── hibernate-core-x.x.x.jar
-│   ├── mysql-connector-java-x.x.x.jar
-│   └── other required Hibernate JARs
+├── lib/ # 📦 All external JAR files placed here
+│ ├── hibernate-core-5.4.33.Final.jar
+│ ├── mysql-connector-java-x.x.x.jar
+│ └── other Hibernate dependencies
 │
 ├── src/
-│   └── com/
-│       └── tka/
-│           ├── Student.java          # 📄 Entity class with annotations
-│           └── Management.java       # 🚀 Main class (console UI + DB logic)
+│ └── com/
+│ └── tka/
+│ ├── Student.java # 📄 Entity class with annotations
+│ └── Management.java # 🚀 Main class (console UI + DB logic)
 │
-├── hibernate.cfg.xml                 # 🛠️ Hibernate DB config file
-├── .gitignore                        # 🙈 Git ignored files
-└── README.md                         # 📝 Project documentation
+├── hibernate.cfg.xml # 🛠️ Hibernate DB config file
+├── .gitignore # 🙈 Git ignored files
+└── README.md # 📝 Project documentation
 
 
 . 📦 How to Download & Run
