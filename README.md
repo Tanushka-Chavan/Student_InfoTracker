@@ -43,6 +43,12 @@ Student_Info_Tracker/
 └── README.md                      # 📝 Project documentation
 ```
 
+## ⚙️ Hibernate Session Methods used
+
+- **Session.save()** – Used to insert new student records into the database.
+- **Session.get()** – Used to retrieve a student by ID.
+- **Session.update()** – Used to modify existing records.
+- **Session.delete()** – Used to remove a record based on ID.
 ## **📦 How to Download & Run**
 
 1. Download the ZIP file or clone the repo
